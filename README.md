@@ -19,6 +19,8 @@ This program utilises the [Google API Key](https://console.cloud.google.com/free
 - Place the *file_name.xlsx* file, and *the program* in a new folder.
 - Rename the place holder column names and file name in the program to the required specification.
 - Run the program.
+- Open the *Output.xlsx*
+- Profit (but sad because it costs money)
 
 ## How it works
 
