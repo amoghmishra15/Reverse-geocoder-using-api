@@ -20,7 +20,7 @@ This program utilises the [Google API Key](https://console.cloud.google.com/free
 - Rename the place holder column names and file name in the program to the required specification.
 - Run the program.
 
-# How it works
+## How it works
 
 - The program reads the excel file and converts it into a dataframe.
 - The program the utilizes the api-key to access google's database and returns the address.
